@@ -1,0 +1,45 @@
+body{background-color:#D3FEFD;}
+
+.gris,.verde{
+	color:#000!important;background-color:#f1f1f1!important;}
+.rojo:hover{
+	color:#fff!important;background-color:#f44336!important;
+	font-family:monospace;}
+	
+table{
+	background-color:white;}
+
+td{
+font-family: "Lucida Console", "Courier New", monospace;}
+	
+.dorado:hover{
+		color:#fff!important;background-color:gold!important}
+
+.azul:hover{
+	color:white;background-color:blue;}
+
+.negro:hover{
+	color:#fff!important;background-color:#000!important}
+
+.morado:hover{
+	color:#fff!important;background-color:purple!important;
+	font-family:cursive;}
+
+.rosa:hover{
+	color:#fff!important;background-color:#FD2CA8!important}
+
+.cafe:hover{
+	color:#fff!important;background-color:#A65102!important}
+
+.aqua:hover{
+	color:#fff!important;background-color:#03C490!important}
+	
+.fosfo:hover{
+	color:#fff!important;background-color:#14FF00!important;
+	font-family:cursive;}
+	
+.verfos:hover{
+	color:#fff!important;background-color:#FFFF00!important;}
+	
+.lol:hover{
+	color:#fff!important;background-color:#FFFF00!important;}
